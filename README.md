@@ -1,6 +1,6 @@
 # About Me
 
-I am Changan Lu, and I am a undergraduate student of School of EECS, Peking University.
+I am Changan Lu (Chinese 陆昶安), and I am a undergraduate student of School of EECS, Peking University.
 
 # Email
 
